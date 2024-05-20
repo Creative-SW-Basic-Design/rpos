@@ -12,6 +12,6 @@ void loop() {
   lcd.setCursor(1,1)l //커서를 (1, 1)로 옮겨라
   lcd.print("World"); //(1, 1)부터 World를 찍어라
 }
-
-
 ```
+
+참고자료 : [아두이노 예제 12. LCD에 글자 표시하기](https://codingrun.com/112)
