@@ -13,5 +13,7 @@ void loop() {
   lcd.print("World"); //(1, 1)부터 World를 찍어라
 }
 ```
+<img width="1440" alt="image" src="https://github.com/Creative-SW-Basic-Design/rpos/assets/128452894/f39aa3eb-5b39-4058-81b5-c906a5742c0b">
+
 
 참고자료 : [아두이노 예제 12. LCD에 글자 표시하기](https://codingrun.com/112)
