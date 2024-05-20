@@ -35,4 +35,4 @@ void loop()
 }
 ```
 
-참고 자료 : [DS1302 아두이노 RTC모듈 사용 예제](https://blog.naver.com/boilmint7/221911079454)
+참고자료 : [DS1302 아두이노 RTC모듈 사용 예제](https://blog.naver.com/boilmint7/221911079454)
