@@ -17,3 +17,7 @@ void loop() {
 
 
 참고자료 : [아두이노 예제 12. LCD에 글자 표시하기](https://codingrun.com/112)
+
+<img width="1100" alt="image" src="https://github.com/Creative-SW-Basic-Design/rpos/assets/128452894/70240811-28d2-49b4-8123-bdcd89474f36">
+
+참고자료 : [틴커캐드](https://www.tinkercad.com/things/eJMz7BQtwtf-copy-of-lcd/editel?tenant=circuits)
